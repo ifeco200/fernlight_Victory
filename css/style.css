@@ -97,6 +97,9 @@ nav{
     padding: 20px 30px;
     border-radius: 20px;
 }
+.delivery h3{
+    margin: 7px;
+}
 span{
     color: green;
 }
